@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main  lib1/liblib1.a lib2/liblib2.a test/libtest.a lib1/liblib1.a lib2/liblib2.a 
